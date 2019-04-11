@@ -45,6 +45,5 @@
       / Scroll to Top Button
       %a.scroll-to-top.rounded{:href => "#page-top"}
         %i.fas.fa-angle-up
-
-
-
+-if @tutee.admin
+  = link_to "Admin Page", admin_home_path
