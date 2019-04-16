@@ -7,6 +7,7 @@
     %meta{:content => 'width=device-width, initial-scale=1, shrink-to-fit=no', :name => 'viewport'}/
     %meta{:content => "", :name => 'description'}/
     %meta{:content => "", :name => 'author'}/
+
     %title Dashboard
 
   %body#page-top
@@ -48,6 +49,7 @@
           %ol.breadcrumb
             %li.breadcrumb-item
               %a{:href => '#'} User Information
+
             %li.breadcrumb-item.active Edit
 
           / Area Chart Example
@@ -55,10 +57,12 @@
             .card-header
               %span.glyphicon.glyphicon-folder-open
               Edit information
+
             .card-body
               - if flash[:message]
                 .alert.alert-danger
                   %span.error= flash[:message]
+
               = form_tag tutee_path(@tutee), :method => :put, class: 'container-fluid' do
                 .form-row
                   .form-group.col-md-4

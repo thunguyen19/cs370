@@ -1,6 +1,7 @@
 {
   "RSpec": {
     "coverage": {
+<<<<<<< HEAD
       "/Users/f540azs/cs169/cs370/app/helpers/application_helper.rb": [
         1,
         null
@@ -18,6 +19,25 @@
         null
       ],
       "/Users/f540azs/cs169/cs370/app/controllers/courses_controller.rb": [
+=======
+      "/Users/vn04rad/Cal/cs169/cs370/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/vn04rad/Cal/cs169/cs370/app/helpers/courses_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/vn04rad/Cal/cs169/cs370/app/helpers/requests_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/vn04rad/Cal/cs169/cs370/app/helpers/tutees_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/vn04rad/Cal/cs169/cs370/app/controllers/courses_controller.rb": [
+>>>>>>> master
         1,
         1,
         null,
@@ -41,12 +61,20 @@
         null,
         null
       ],
+<<<<<<< HEAD
       "/Users/f540azs/cs169/cs370/app/controllers/application_controller.rb": [
+=======
+      "/Users/vn04rad/Cal/cs169/cs370/app/controllers/application_controller.rb": [
+>>>>>>> master
         1,
         1,
         null
       ],
+<<<<<<< HEAD
       "/Users/f540azs/cs169/cs370/app/controllers/requests_controller.rb": [
+=======
+      "/Users/vn04rad/Cal/cs169/cs370/app/controllers/requests_controller.rb": [
+>>>>>>> master
         1,
         null,
         1,
@@ -54,67 +82,122 @@
         null,
         null,
         1,
+<<<<<<< HEAD
         0,
         null,
         null,
+=======
+        null,
+        null,
+        1,
+        null,
+>>>>>>> master
         null,
         1,
         2,
         null,
         null,
+<<<<<<< HEAD
         null,
         1,
         0,
         0,
-        null,
-        null,
-        1,
-        null,
-        null,
+=======
         1,
         0,
         0,
         0,
-        0,
-        0,
-        0,
-        0,
-        null,
-        null,
-        0,
-        0,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        0,
-        0,
-        0,
-        null,
-        0,
-        0,
-        null,
-        null,
+>>>>>>> master
         null,
         null,
         1,
         null,
         null,
         1,
+<<<<<<< HEAD
+        0,
+        0,
+=======
+        null,
+        null,
+        0,
         0,
         null,
+>>>>>>> master
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+<<<<<<< HEAD
+        null,
+        0,
+=======
+>>>>>>> master
+        0,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null,
+<<<<<<< HEAD
+        null,
+        1,
+        null,
+        null,
+=======
+        1,
         null,
         null,
         null
       ],
+      "/Users/vn04rad/Cal/cs169/cs370/app/controllers/tutees_controller.rb": [
+        1,
+        null,
+>>>>>>> master
+        1,
+        0,
+        null,
+        null,
+        null,
+<<<<<<< HEAD
+        null
+      ],
       "/Users/f540azs/cs169/cs370/app/controllers/tutees_controller.rb": [
         1,
+=======
+        1,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        null,
+        null,
+        0,
+>>>>>>> master
         null,
         1,
         null,
         null,
+<<<<<<< HEAD
+=======
+        null,
+>>>>>>> master
         1,
         0,
         null,
@@ -122,14 +205,23 @@
         0,
         null,
         null,
+<<<<<<< HEAD
         null,
         null,
         null,
         1,
+=======
+        1,
+        null,
+        null,
+        1,
+        0,
+>>>>>>> master
         null,
         null,
         1,
         null,
+<<<<<<< HEAD
         null,
         1,
         null,
@@ -143,65 +235,182 @@
         null
       ],
       "/Users/f540azs/cs169/cs370/app/models/course.rb": [
-        1,
-        1,
-        1,
+=======
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null,
+        null,
         1,
         0,
         null,
         null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null,
+        null,
+        1,
+        null,
         null
       ],
+      "/Users/vn04rad/Cal/cs169/cs370/app/models/course.rb": [
+        1,
+>>>>>>> master
+        1,
+        1,
+        1,
+        1,
+<<<<<<< HEAD
+        0,
+=======
+>>>>>>> master
+        null,
+        null,
+        null
+      ],
+<<<<<<< HEAD
       "/Users/f540azs/cs169/cs370/app/models/application_record.rb": [
+=======
+      "/Users/vn04rad/Cal/cs169/cs370/app/models/application_record.rb": [
+>>>>>>> master
         1,
         1,
         null
       ],
+<<<<<<< HEAD
       "/Users/f540azs/cs169/cs370/app/models/meeting.rb": [
+=======
+      "/Users/vn04rad/Cal/cs169/cs370/app/models/meeting.rb": [
+>>>>>>> master
         1,
         1,
         1,
         null
       ],
+<<<<<<< HEAD
       "/Users/f540azs/cs169/cs370/app/models/request.rb": [
+=======
+      "/Users/vn04rad/Cal/cs169/cs370/app/models/request.rb": [
+>>>>>>> master
         1,
         1,
         1,
         1,
         null
       ],
+<<<<<<< HEAD
       "/Users/f540azs/cs169/cs370/app/models/tutee.rb": [
+=======
+      "/Users/vn04rad/Cal/cs169/cs370/app/models/tutee.rb": [
+>>>>>>> master
         1,
         1,
         null
       ],
+<<<<<<< HEAD
       "/Users/f540azs/cs169/cs370/app/models/tutor.rb": [
         1,
         null
       ],
       "/Users/f540azs/cs169/cs370/app/mailers/application_mailer.rb": [
+=======
+      "/Users/vn04rad/Cal/cs169/cs370/app/models/tutor.rb": [
+        1,
+        null
+      ],
+      "/Users/vn04rad/Cal/cs169/cs370/app/mailers/application_mailer.rb": [
+>>>>>>> master
         0,
         0,
         0,
         0
       ],
+<<<<<<< HEAD
       "/Users/f540azs/cs169/cs370/app/jobs/application_job.rb": [
         0,
         0
       ],
       "/Users/f540azs/cs169/cs370/app/channels/application_cable/connection.rb": [
+=======
+      "/Users/vn04rad/Cal/cs169/cs370/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/Users/vn04rad/Cal/cs169/cs370/app/channels/application_cable/connection.rb": [
+>>>>>>> master
         0,
         0,
         0,
         0
       ],
+<<<<<<< HEAD
       "/Users/f540azs/cs169/cs370/app/channels/application_cable/channel.rb": [
+=======
+      "/Users/vn04rad/Cal/cs169/cs370/app/channels/application_cable/channel.rb": [
+>>>>>>> master
         0,
         0,
         0,
         0
       ]
     },
+<<<<<<< HEAD
     "timestamp": 1555298449
+=======
+    "timestamp": 1555448113
+>>>>>>> master
   }
 }

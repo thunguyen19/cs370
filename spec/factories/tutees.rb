@@ -70,5 +70,11 @@ FactoryBot.define do
     email {'bobburgers@berkeley.edu'}
     sid {nil}
     birthdate {'1992-01-01'}
+
+    # id {10}
+    # sid  {3033298048954}
+    # first_name {"Duy"}
+    # last_name {"Nguyen"}
+    # email {"duy@berkeley.edu"}
   end
 end
