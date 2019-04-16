@@ -1,4 +1,4 @@
-require 'rails_helper'
+git require 'rails_helper'
 require 'capybara/rspec'
 
 RSpec.describe TuteesController, type: :controller do
@@ -8,11 +8,14 @@ RSpec.describe TuteesController, type: :controller do
       @tutee = create(:tutee)
     end
     it "signs me in" do
-      visit tutees_path
 
     end
-    it "without existing account renders :new template"
-    it "with existing account renders :show template"
+    it "without existing account renders :new template" do
+
+    end
+
+    it "with existing account renders :show template" do
+    end
   end
 
   describe "GET #show" do
@@ -36,7 +39,11 @@ RSpec.describe TuteesController, type: :controller do
 
   describe "POST #create" do
     context "with valid attributes" do
-      it "saves the new contact in the database"
+      it "saves the new contact in the database" do
+        post :create, tutee: Factory.attributes_for(:contact)
+        response.should redirect_to
+      end
+
       it "given valid inputs renders :show template"
     end
 
