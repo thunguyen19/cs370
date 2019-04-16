@@ -1,4 +1,4 @@
-git require 'rails_helper'
+require 'rails_helper'
 require 'capybara/rspec'
 
 RSpec.describe TuteesController, type: :controller do
